@@ -13,6 +13,7 @@ I work as a Software Developer since 2006.
 ![image](https://img.shields.io/badge/-PostgreSQL-525382?style=flat-square&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/-Redis-525382?style=flat-square&logo=redis&logoColor=white)
 ![image](https://img.shields.io/badge/-MongoDB-525382?style=flat-square&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/-Memcached-525382?style=flat-square&logo=memcached&logoColor=white)
 
 
 ![image](https://img.shields.io/badge/-JavaScript-AF1B3F?style=flat-square&logo=javascript&logoColor=white)
@@ -28,7 +29,6 @@ I work as a Software Developer since 2006.
 ![image](https://img.shields.io/badge/-Sentry-297373?style=flat-square&logo=sentry&logoColor=white)
 ![image](https://img.shields.io/badge/-Apache-297373?style=flat-square&logo=apache&logoColor=white)
 ![image](https://img.shields.io/badge/-Nginx-297373?style=flat-square&logo=nginx&logoColor=white)
-![image](https://img.shields.io/badge/-Memcached-297373?style=flat-square&logo=memcached&logoColor=white)
 
 
 ![image](https://img.shields.io/badge/-ElasticSearch-473144?style=flat-square&logo=elasticsearch&logoColor=white)
