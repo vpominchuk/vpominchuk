@@ -8,6 +8,7 @@ I work as a Software Developer since 2006.
 
 ![image](https://img.shields.io/badge/-Laravel-3895FF?style=flat-square&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/-PHP-3895FF?style=flat-square&logo=php&logoColor=white)
+
 ![image](https://img.shields.io/badge/-Go-3895FF?style=flat-square&logo=go&logoColor=white)
 
 ![image](https://img.shields.io/badge/-MySQL-525382?style=flat-square&logo=mysql&logoColor=white)
@@ -18,7 +19,7 @@ I work as a Software Developer since 2006.
 
 
 ![image](https://img.shields.io/badge/-JavaScript-AF1B3F?style=flat-square&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/-Vue-AF1B3F?style=flat-square&logo=vue.js&logoColor=white)
+![image](https://img.shields.io/badge/-React-AF1B3F?style=flat-square&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/-TailwindCSS-AF1B3F?style=flat-square&logo=tailwindcss&logoColor=white)
 ![image](https://img.shields.io/badge/-Bootstrap-AF1B3F?style=flat-square&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/-jQuery-AF1B3F?style=flat-square&logo=jquery&logoColor=white)
