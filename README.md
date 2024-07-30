@@ -7,6 +7,7 @@ I work as a Software Developer since 2006.
 ## 💞️ Things I code with
 
 ![image](https://img.shields.io/badge/-Laravel-3895FF?style=flat-square&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/-Symfony-3895FF?style=flat-square&logo=symfony&logoColor=white)
 ![image](https://img.shields.io/badge/-PHP-3895FF?style=flat-square&logo=php&logoColor=white)
 
 ![image](https://img.shields.io/badge/-Go-3895FF?style=flat-square&logo=go&logoColor=white)
